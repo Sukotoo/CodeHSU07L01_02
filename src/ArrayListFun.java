@@ -38,6 +38,7 @@ public class ArrayListFun {
         doubleList.add(4.0);
         doubleList.add(7.0);
         doubleList.add(6.78);
+        doubleList.add(1240.679);
         double saved = doubleList.get(3);
         doubleList.add(3, 42.0);
         //remove the item at index 2 in the Doubles array
